@@ -1,0 +1,19 @@
+{
+    "etapas": [
+        {
+            "titulo": "Fundamentos Web",
+            "items": ["HTML5", "CSS3", "JavaScript", "jQuery"],
+            "completado": true
+        },
+        {
+            "titulo": "Backend con PHP",
+            "items": ["Sintaxis PHP", "Conexión a PostgreSQL", "CRUD", "Seguridad"],
+            "completado": false
+        },
+        {
+            "titulo": "Proyecto Final",
+            "items": ["Portfolio", "CRUD Completo", "Deploy en VPS"],
+            "completado": false
+        }
+    ]
+}
